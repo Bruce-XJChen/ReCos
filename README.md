@@ -76,3 +76,14 @@ See `images` for more details. If you wish to evaluate your model on our new ben
 
 ### Text Annotations
 See `recos_v1.json` for more details.
+
+## Citation
+If you find this code useful for your research, please consider citing:
+```
+@inproceedings{chen2024recos,
+  title = {ReCoS: A Novel Benchmark for Cross-Modal Image-Text Retrieval in Complex Real-Life Scenarios},
+  author = {Chen, Xiaojun and Lou, Jimeng and Huang, Wenxi and Wan, Ting and Zhang, Qin and Yang, Min},
+  booktitle = {Proceedings of the 32nd ACM International Conference on Multimedia},
+  year = {2024}
+}
+```
